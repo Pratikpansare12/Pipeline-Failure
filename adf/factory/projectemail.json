@@ -1,0 +1,9 @@
+{
+	"name": "projectemail",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf61ac8f-78ce-4f0b-ad98-accb50522474",
+		"tenantId": "b68bcd6a-a535-4735-a84a-597d4302a4a3"
+	}
+}
